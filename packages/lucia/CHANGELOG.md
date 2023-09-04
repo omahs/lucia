@@ -1,5 +1,11 @@
 # lucia
 
+## 2.5.0
+
+### Minor changes
+
+- [#992](https://github.com/pilcrowOnPaper/lucia/pull/992) by [@Tirke](https://github.com/Tirke) : Add `elysia()` middleware
+
 ## 2.4.2
 
 ### Patch changes

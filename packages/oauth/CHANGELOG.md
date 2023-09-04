@@ -1,5 +1,11 @@
 # @lucia-auth/oauth
 
+## 3.0.1
+
+### Patch changes
+
+- [#1065](https://github.com/pilcrowOnPaper/lucia/pull/1065) by [@pilcrowOnPaper](https://github.com/pilcrowOnPaper) : Remove test files from release
+
 ## 3.0.0
 
 ### Major changes
